@@ -49,3 +49,4 @@ Control vibrant colors in real-time from your **phone or PC** via a web browser.
 - WiFi (ESP32 built-in)
 
 ---
+<img width="639" height="358" alt="image" src="https://github.com/user-attachments/assets/b63a381f-ea63-4013-b882-2ce7c2d801b2" />
