@@ -6,8 +6,8 @@
 #include <SPI.h>
 
 // ================= WIFI =================
-const char* ssid = "A1 602";
-const char* password = "Mohilisop@1979";
+const char* ssid = "your ";
+const char* password = "pass";
 
 WebServer server(80);
 
